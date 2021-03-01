@@ -11,7 +11,7 @@
 <img src="C:\Users\Emilio Ramirez\Desktop\escuela\week20\primero\speed.jpg" width="200" height="200"><BR>
 
   <p>
-    <label>MPH</label>
+    <label>MPH</label> 
 
 
     <input id="inputMPH" type="text"><BR><BR>
