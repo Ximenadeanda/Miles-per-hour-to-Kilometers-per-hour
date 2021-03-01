@@ -24,8 +24,8 @@
 
 
 //this function is to convert miles per hour in to kilometers per hour
-    function speedConverter(valNum) {
-      valNum = parseFloat(valNum);
+    function speedConverter(1.609344) {
+      valNum = parseFloat(1.609344);
       document.getElementById("outputKPH").innerHTML = valNum * 1.609344; // valNum / 1.609344;
     }
 
